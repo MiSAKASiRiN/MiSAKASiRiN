@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on CUI projects
 - 📫 U can contact me at: ohhh@wuzehao.pro
 
-:)
+Enjoy Codes!  :)
 
 
 <!---

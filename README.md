@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating command-line tools
 - 🌱 I’m currently learning C++/Swift/Python
 - 💞️ I’m looking to collaborate on CUI projects
-- 📫 U can contact me at: ohhh@wuzehao.pro
+- 📫 U can contact me at: misaka@sirin.moe
 
 Enjoy Codes!  :)
 
